@@ -1,8 +1,1 @@
-openai
-torch
-PyPDF2
-ollama
-pyyaml
-beautifulsoup4
-lxml
-python-dotenv
+openai torch PyPDF2 ollama pyyaml beautifulsoup4 lxml python-dotenv
